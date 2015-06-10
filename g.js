@@ -172,3 +172,4 @@ win.focus();
 function changeSrc() {
 document.getElementById("fm").src=s[x];
 }
+
