@@ -128,8 +128,8 @@ var s=[
 "http://www.sunbitco.in/?r=18wFCTGyQyb71mMW326vjg2yhFeH984aCd",
 "http://beam-it-up.de/?r=18wFCTGyQyb71mMW326vjg2yhFeH984aCd",
 "http://bitcoin.faucet.fr/?r=18wFCTGyQyb71mMW326vjg2yhFeH984aCd",
-"http://www.claimbit.co.uk/?r=18wFCTGyQyb71mMW326vjg2yhFeH984aCd"
-"http://www.bitcoins43.com/?ref=18wFCTGyQyb71mMW326vjg2yhFeH984aCd",
+"http://www.claimbit.co.uk/?r=18wFCTGyQyb71mMW326vjg2yhFeH984aCd",
+"http://www.bitcoins43.com/?ref=18wFCTGyQyb71mMW326vjg2yhFeH984aCd"
 ];
 var adr,i,x=0,c=s.length;
 function address() {
